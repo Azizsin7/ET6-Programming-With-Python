@@ -4,6 +4,7 @@ Writing a good function involves a lot of detail, way too much to remember right
 away! This checklist can help you review your own or your classmates' code until
 the details become a habit.
 
+
 ## Behavior
 
 ### Files
