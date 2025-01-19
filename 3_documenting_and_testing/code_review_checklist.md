@@ -36,23 +36,23 @@ the details become a habit.
 - [x] include any assumptions
 - [x] include 3 or more (passing!) doctests
 - [x] include 1-2 use cases (if necessary)
-- [ ] behavior description
-- [ ] parameter description
-- [ ] return value description
-- [ ] include any assumptions
-- [ ] include 3 or more (passing!) doctests
-- [ ] assertions are documented (if there are any)
-- [ ] include 1-2 use cases (if necessary)
+- [x] behavior description
+- [x] parameter description
+- [x] return value description
+- [x] include any assumptions
+- [x] include 3 or more (passing!) doctests
+- [x] assertions are documented (if there are any)
+- [x] include 1-2 use cases (if necessary)
 
 ## Function Implementation
 
-- [ ] The code is auto-formatted
-- [ ] The code has no (reasonable) linting mistakes
-- [ ] Variables are named with snake_case
-- [ ] The function has a clear and helpful name
-- [ ] The file's name matches the function name
-- [ ] The code follows the strategy as simply as possible
-- [ ] Variable names are clear and helpful
-- [ ] Comments explain the strategy (if necessary)
-- [ ] There are type annotations
-- [ ] (challenge) The code includes defensive assertions
+- [x] The code is auto-formatted
+- [x] The code has no (reasonable) linting mistakes
+- [x] Variables are named with snake_case
+- [x] The function has a clear and helpful name
+- [x] The file's name matches the function name
+- [x] The code follows the strategy as simply as possible
+- [x] Variable names are clear and helpful
+- [x] Comments explain the strategy (if necessary)
+- [x] There are type annotations
+- [x] (challenge) The code includes defensive assertions
